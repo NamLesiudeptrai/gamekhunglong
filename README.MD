@@ -1,6 +1,6 @@
 # Chrome Dino Game
 
-![Preview](/preview.png)
+![Preview](/hinhanh.png)
 <br>
 <br>
 
